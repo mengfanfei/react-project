@@ -1,0 +1,12 @@
+.home-page {
+  padding: 50px;
+}
+.home-page .buttons {
+  width: 300px;
+  margin: 20px auto;
+  /* border: 1px solid #cccccc;
+  border-radius: 4px; */
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
